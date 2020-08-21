@@ -1,0 +1,27 @@
+.site-card-wrapper {
+    padding: 30px;
+    background: #ececec;
+}
+
+.width {
+    width: 750px;
+    display: flex;
+    flex-direction: row;
+}
+
+.ant-card-body {
+    padding: 0;
+}
+
+.ant-card {
+    margin: 0;
+}
+
+#login {
+    padding: 50px 100px;
+}
+
+#banner {
+    margin: 0 !important;
+    border: none !important;
+}

@@ -1,0 +1,34 @@
+.login-form {
+    max-width: 500px;
+}
+
+.login-form-forgot {
+    float: left;
+    color: orange;
+}
+
+.ant-col-rtl .login-form-forgot {
+    float: left;
+}
+
+.login-form-button {
+    width: 100%;
+    background-color: #8B0000;
+}
+
+#signup {
+    font-weight: bold;
+    color: #8B0000;
+}
+
+.continue-with {
+    text-align: center;
+}
+
+.ant-card-body {
+    padding: 0;
+}
+
+.ant-card-bordered {
+    border: none !important;
+}

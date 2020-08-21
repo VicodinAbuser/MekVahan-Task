@@ -1,0 +1,66 @@
+.ant-layout {
+    background: #ffffff;
+}
+
+.ant-layout-header {
+    border-bottom-style: inset;
+}
+
+.main-content {
+    background: url('./addressbackground.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+}
+
+aside {
+    max-width: 20% !important;
+    min-width: 20% !important;
+    width: 20% !important;
+    flex-basis: 20% !important;
+}
+
+.ant-popover-inner {
+    height: 240px;
+    width: 300px;
+}
+
+.ant-layout-content > .ant-card {
+    margin: 2%;
+    height: auto;
+}
+
+.ant-card-head + .ant-card-body {
+    padding: 10%;
+    padding-bottom: 5%;
+}
+
+.ant-card-head {
+    padding: 0 10%;
+}
+
+.ant-menu {
+    color: black;
+    letter-spacing: 0.75px;
+}
+
+.ant-menu-item {
+    border-bottom-style: inset;
+}
+
+.anticon-user {
+    display: none;
+}
+
+.profile-avatar {
+    height: 80px !important;
+}
+
+.avatar {
+    margin-right: 1rem !important;
+}
+
+.ant-menu-vertical > .ant-menu-item, .ant-menu-vertical-left > .ant-menu-item, .ant-menu-vertical-right > .ant-menu-item, .ant-menu-inline > .ant-menu-item, .ant-menu-vertical > .ant-menu-submenu > .ant-menu-submenu-title, .ant-menu-vertical-left > .ant-menu-submenu > .ant-menu-submenu-title, .ant-menu-vertical-right > .ant-menu-submenu > .ant-menu-submenu-title, .ant-menu-inline > .ant-menu-submenu > .ant-menu-submenu-title {
+    height: 50px ;
+    padding-top: 0.5rem;
+}
