@@ -1,3 +1,21 @@
+### Screenshots
+
+##### 1. Login Page
+
+![Login Page](./assets/loginpage.png)
+
+##### 2. Profile page with 0 Addresses
+
+![Profile Page 1](./assets/profilepage1.png)
+
+##### 3. Profile page with 4 addresses and the Add Address pop-up box
+
+![Profile Page 2](./assets/profilepage2.png)
+
+##### 4. Profile page with 4 assets without the Add Address pop-up box
+
+![Profile Page 3](./assets/profilepage3.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
